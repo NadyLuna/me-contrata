@@ -32,4 +32,4 @@ para adicionar e entrar em contato.
 
 [MIT](/LICENSE) &copy; BackEnd Brasil
 
-[COPYRIGHT] FrontEnd BR
+By FrontEnd BR
